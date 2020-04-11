@@ -1,5 +1,7 @@
 ## Patch-based Inpainting
 
+### Overview 
+
 MATLAB/C-Mex re-implementation of paper:   [PDF](https://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
 ```
 @article{criminisi2004region,
@@ -12,8 +14,6 @@ MATLAB/C-Mex re-implementation of paper:   [PDF](https://www.irisa.fr/vista/Pape
   year={2004}
 }
 ```
-
-### Overview 
 
 ![image](./Figures/inp_crim_method.png)
 
