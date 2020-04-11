@@ -15,7 +15,7 @@ MATLAB/C-Mex re-implementation of paper:   [PDF](https://www.irisa.fr/vista/Pape
 
 ### Overview 
 
-![image](./Figures/inp_crim.png)
+![image](./Figures/inp_crim_method.png)
 
 
 ### Execution
