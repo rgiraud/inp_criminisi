@@ -1,6 +1,6 @@
 ## Patch-based Inpainting
 
-MATLAB/C-Mex Implementation of paper:   [PDF](https://hal.archives-ouvertes.fr/hal-01510063/document)
+MATLAB/C-Mex Implementation of paper:   [PDF](https://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
 ```
 @article{criminisi2004region,
   title={Region filling and object removal by exemplar-based image inpainting},
